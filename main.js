@@ -32,7 +32,7 @@ async function generatePosts() {
     let possibleWords = ["Hello", "I", "Am", "Vacations", "Dog", "le'ts goo", "let's party at the factory", "naza is", "jose is", "gonza is", "Woof woof!", "Really cool", "I cant believe", "Meow", "Grr", "uwu", "this", "I like", "So fkin", "OwO", "Rawr", "This onichan", "looks like", "lmao", "Wtf"]
 
     let text = ""
-    for(i = 0;i<100;i++) {
+    for(i = 0;i<30;i++) {
         text += `${possibleWords[Math.floor(Math.random() * possibleWords.length)]} `
     }
 
