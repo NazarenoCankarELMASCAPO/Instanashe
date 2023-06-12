@@ -29,7 +29,7 @@ async function generatePosts() {
   }
 
   function genText() {
-    let possibleWords = ["un video ma mi gente", "me encanta esta vaina", "la manguera la manguera", "hola", "yo", "emmm", "vacaciones", "perro", "joder sii", "vamonos de fiesta factory", "naza es", "jose es", "gonza es", "Woof woof!", "realmente genial", "no puedo creer que", "miauu", "Grr", "uwu", "esto", "me gusta", "joder muy", "OwO", "Rawr", "este onichan", "se ve como", "lmao", "Wtf"]
+    let possibleWords = ["un video ma mi gente", "tu madre tiene una polla", "que ya la quisiera yo", "me encanta esta vaina", "wazawaza", "macri es gay", "milei es nazi", "masimino", "la manguera la manguera", "hola", "yo", "emmm", "vacaciones", "perro", "joder sii", "vamonos de fiesta factory", "naza es", "jose es", "gonza es", "Woof woof!", "realmente genial", "no puedo creer que", "miauu", "Grr", "uwu", "esto", "me gusta", "joder muy", "OwO", "Rawr", "este onichan", "se ve como", "lmao", "Wtf"]
 
     let text = ""
     for(i = 0;i<100;i++) {
